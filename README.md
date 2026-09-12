@@ -86,3 +86,33 @@ Location: `src/main/java/string/assigment_problems/`
 | 3 | Product Inventory CSV Parser | [`ProductInventoryParser.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_2/src/main/java/string/assigment_problems/ProductInventoryParser.java) | `split(",")`, field count validation, formatted record | Verified |
 | 4 | Library ISBN Normalizer & Validator | [`IsbnValidator.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_2/src/main/java/string/assigment_problems/IsbnValidator.java) | `trim()`, `Character.isLetter()`, `isDigit()`, `StringBuilder` | Verified |
 | 5 | Stop-Word-Filtered Word Frequency Report | [`StopWordFrequencyReport.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_2/src/main/java/string/assigment_problems/StopWordFrequencyReport.java) | Punctuation stripping, stop-word filtering, `HashMap`, descending sort | Verified |
+
+---
+
+### Session 3 / Week 3 â€” OOP, Classes and Objects
+
+- **Branch**: [`feature/session_3`](https://github.com/shresthsingh1108/STEP_semester_3/tree/feature/session_3)
+- **Topic**: `oop`
+- **Status**: All 10/10 problems implemented, compiled, and verified.
+
+#### 1. Live-Coding Session (Class Problems)
+Location: `src/main/java/oop/class_problems/`
+
+| # | Problem Name | Source File | Key Concepts | Status |
+|---|---|---|---|---|
+| 1 | Simple Student Record Class | [`Student.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/class_problems/Student.java) | Class definition, object creation, direct field access | Verified |
+| 2 | Two Objects, Two Separate States | [`HostelRoom.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/class_problems/HostelRoom.java) | Multiple instances, independent state isolation | Verified |
+| 3 | Reading Java's Default Field Values | [`LibraryCard.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/class_problems/LibraryCard.java) | Default field initializations (null, 0, false) | Verified |
+| 4 | Basic Constructor for a Course | [`Course.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/class_problems/Course.java) | Constructor definition, `this.field = parameter` | Verified |
+| 5 | Counting Objects With a Static Field | [`Applicant.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/class_problems/Applicant.java) | Static class variables, constructor counting, class-level access | Verified |
+
+#### 2. Week 3 Assignment Problems
+Location: `src/main/java/oop/assigment_problems/`
+
+| # | Problem Name | Source File | Key Concepts | Status |
+|---|---|---|---|---|
+| 1 | Simple Book Record Class | [`Book.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Book.java) | Class definition, object creation, direct field access | Verified |
+| 2 | Two Objects, Two Separate Occupancy Counts | [`ExamHall.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/ExamHall.java) | Multiple instances, independent state isolation | Verified |
+| 3 | Reading Java's Default Field Values | [`Employee.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Employee.java) | Default field initializations (null, 0.0, false) | Verified |
+| 4 | Basic Constructor for a Product | [`Product.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Product.java) | Constructor definition, `this.field = parameter` | Verified |
+| 5 | Counting Objects With a Static Field | [`Order.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Order.java) | Static class variables, constructor counting, class-level access | Verified |
