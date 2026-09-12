@@ -116,3 +116,33 @@ Location: `src/main/java/oop/assigment_problems/`
 | 3 | Reading Java's Default Field Values | [`Employee.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Employee.java) | Default field initializations (null, 0.0, false) | Verified |
 | 4 | Basic Constructor for a Product | [`Product.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Product.java) | Constructor definition, `this.field = parameter` | Verified |
 | 5 | Counting Objects With a Static Field | [`Order.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_3/src/main/java/oop/assigment_problems/Order.java) | Static class variables, constructor counting, class-level access | Verified |
+
+---
+
+### Session 4 / Week 4 â€” Functions & Arrays (LeetCode Practice)
+
+- **Branch**: [`feature/session_4`](https://github.com/shresthsingh1108/STEP_semester_3/tree/feature/session_4)
+- **Topic**: `arrays`
+- **Status**: All 10/10 problems implemented, compiled, and verified.
+
+#### 1. Live-Coding Session (Class Problems)
+Location: `src/main/java/arrays/class_problems/`
+
+| # | Problem Name | Source File | Key Concepts | Status |
+|---|---|---|---|---|
+| 1 | Two Sum | [`TwoSum.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/class_problems/TwoSum.java) | Nested loops, array indexing, pairwise search logic | Verified |
+| 2 | Best Time to Buy and Sell Stock | [`BestTimeToBuySellStock.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/class_problems/BestTimeToBuySellStock.java) | Single-pass traversal, running minimum & maximum tracking | Verified |
+| 3 | Contains Duplicate | [`ContainsDuplicate.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/class_problems/ContainsDuplicate.java) | Nested loops, pairwise comparison, early loop exit | Verified |
+| 4 | Merge Two Sorted Arrays | [`MergeTwoSortedArrays.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/class_problems/MergeTwoSortedArrays.java) | Two-pointer technique, linear merging, remainder copy | Verified |
+| 5 | Rotate Array | [`RotateArray.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/class_problems/RotateArray.java) | Modulo arithmetic for wraparound indexing, array copying | Verified |
+
+#### 2. Week 4 Assignment Problems
+Location: `src/main/java/arrays/assigment_problems/`
+
+| # | Problem Name | Source File | Key Concepts | Status |
+|---|---|---|---|---|
+| 1 | Product of Array Except Self | [`ProductOfArrayExceptSelf.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/ProductOfArrayExceptSelf.java) | Prefix & suffix products, two-pass traversal, zero handling without division | Verified |
+| 2 | Maximum Subarray | [`MaximumSubarray.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/MaximumSubarray.java) | Kadane's algorithm, extend vs. restart running sum logic | Verified |
+| 3 | 3Sum | [`ThreeSum.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/ThreeSum.java) | Sorting setup, two-pointer inward scan, systematic duplicate avoidance | Verified |
+| 4 | Subarray Sum Equals K | [`SubarraySumEqualsK.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/SubarraySumEqualsK.java) | Running prefix sum, hash map frequency counting, negative values handling | Verified |
+| 5 | Find Minimum in Rotated Sorted Array | [`FindMinimumRotatedSortedArray.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/FindMinimumRotatedSortedArray.java) | Modified binary search, O(log n) inflection point lookup | Verified |
