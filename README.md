@@ -146,3 +146,33 @@ Location: `src/main/java/arrays/assigment_problems/`
 | 3 | 3Sum | [`ThreeSum.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/ThreeSum.java) | Sorting setup, two-pointer inward scan, systematic duplicate avoidance | Verified |
 | 4 | Subarray Sum Equals K | [`SubarraySumEqualsK.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/SubarraySumEqualsK.java) | Running prefix sum, hash map frequency counting, negative values handling | Verified |
 | 5 | Find Minimum in Rotated Sorted Array | [`FindMinimumRotatedSortedArray.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_4/src/main/java/arrays/assigment_problems/FindMinimumRotatedSortedArray.java) | Modified binary search, O(log n) inflection point lookup | Verified |
+
+---
+
+### Session 5 / Week 5 â€” Arrays, Functions & Object Sorting
+
+- **Branch**: [`feature/session_5`](https://github.com/shresthsingh1108/STEP_semester_3/tree/feature/session_5)
+- **Topic**: `arrays`
+- **Status**: All 10/10 problems implemented, compiled, and verified.
+
+#### 1. Live-Coding Session (Class Problems)
+Location: `src/main/java/arrays/class_problems/`
+
+| # | Problem Name | Source File | Key Concepts | Status |
+|---|---|---|---|---|
+| 1 | Hackathon Score Curve Booster | [`HackathonScoreBooster.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/class_problems/HackathonScoreBooster.java) | In-place array modification, `Arrays.toString()` | Verified |
+| 2 | Duplicate Team Name Finder | [`DuplicateTeamFinder.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/class_problems/DuplicateTeamFinder.java) | Plain nested loops pairwise scan, case-sensitive check | Verified |
+| 3 | Top-3 Podium Finder | [`PodiumFinder.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/class_problems/PodiumFinder.java) | Single-pass tracking of top 3 with tie handling without sorting | Verified |
+| 4 | Hackathon Seating Grid Optimizer | [`SeatingGridOptimizer.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/class_problems/SeatingGridOptimizer.java) | 2D array row averaging, threshold classification (Quiet vs Buzzing) | Verified |
+| 5 | Placement Drive Shortlisting & Ranking Engine | [`Candidate.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/class_problems/Candidate.java) | Overloaded eligibility, `Comparable<Candidate>`, `Arrays.sort()` | Verified |
+
+#### 2. Week 5 Assignment Problems
+Location: `src/main/java/arrays/assigment_problems/`
+
+| # | Problem Name | Source File | Key Concepts | Status |
+|---|---|---|---|---|
+| 1 | Fantasy Team Score Multiplier | [`FantasyScoreMultiplier.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/assigment_problems/FantasyScoreMultiplier.java) | Direct array modification by reference, index assignment | Verified |
+| 2 | Duplicate Player Pick Checker | [`DuplicatePlayerPickChecker.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/assigment_problems/DuplicatePlayerPickChecker.java) | Nested loops pairwise scan without Collections | Verified |
+| 3 | Top Performer Tracker | [`TopPerformerTracker.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/assigment_problems/TopPerformerTracker.java) | Single-pass min, max, and spread calculation | Verified |
+| 4 | Match Day Grid Analyzer | [`MatchDayGridAnalyzer.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/assigment_problems/MatchDayGridAnalyzer.java) | Reusable row averaging helper, threshold classification | Verified |
+| 5 | Fantasy League Auto-Draft Ranking Engine | [`Player.java`](https://github.com/shresthsingh1108/STEP_semester_3/blob/feature/session_5/src/main/java/arrays/assigment_problems/Player.java) | Overloaded draftability, `Comparable<Player>`, `Arrays.sort()` | Verified |
